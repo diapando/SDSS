@@ -1,0 +1,94 @@
+<!-- <app-my-bar-chart 
+[arrayNbOfDetectionsFromParent]="arrayNbOfDetectionsGlobal"
+[arrayNbOfViolationsFromParent]="arrayNbOfViolationsGlobal"></app-my-bar-chart> -->
+
+<div class="container">
+  <title>Social Distancing Supervision System (SDSS)</title>
+  <ul class="nav nav-pills nav-fill">
+    <li class="nav-item">
+      <a class="nav-link active" routerLink="/bar-chart">Overall Data</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" routerLink="/doughnut-chart">Live Streaming</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" routerLink="/radar-chart">Reports</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link active" routerLink="/pie-chart">Settings</a>
+    </li>
+
+  </ul>
+
+  <div>
+    <router-outlet></router-outlet>
+  </div>
+  <footer class="section footer-classic context-dark bg-image" style="background: #0089FF;">
+    <div class="container">
+      <div class="row row-30">
+        <div class="col-md-4 col-xl-5">
+          <div class="pr-xl-4"><a class="brand" href="index.html"><img class="brand-logo-light"
+                src="images/agency/logo-inverse-140x37.png" alt="" width="140" height="37"
+                srcset="images/agency/logo-retina-inverse-280x74.png 2x"></a>
+            <p style="color:white;">We are an award-winning creative team, wishing for a better future and a better life
+              to all those who dream big !</p>
+            <!-- Rights-->
+            <p class="rights" style="color:white;"><span>©  </span><span
+                class="copyright-year">2020</span><span> </span><span>SDSS</span><span>. </span><span>All Rights
+                Reserved.</span></p>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <h5 style="color:white;">Contacts</h5>
+          <dl class="contact-list">
+            <dt style="color:white;">Address:</dt>
+            <dd style="color:white;">Tunis, Tunisia</dd>
+          </dl>
+          <dl class="contact-list">
+            <dt style="color:white;">Email:</dt>
+            <dd style="color:white;">SDSS@gmail.com</dd>
+          </dl>
+          <dl class="contact-list">
+            <dt style="color:white;">Phones:</dt>
+            <dd style="color:white;">+216 25 515 140 <br>+216 71 717 171
+            </dd>
+          </dl>
+        </div>
+        <div class="col-md-4 col-xl-3">
+          <h5 style="color:white;">Links</h5>
+          <ul class="nav-list">
+            <li style="color:white;">About</li>
+            <li style="color:white;">Projects</li>
+            <li style="color:white;">Donate</li>
+            <li style="color:white;">Contacts</li>
+            <li style="color:white;">Pricing</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- Footer -->
+  <!-- Footer -->
+  <!-- <table class="minimalistBlack" *ngIf="records.length > 0">    
+      <thead>    
+        <tr>    
+          <th>ID </th>    
+          <th>FirstName </th>    
+          <th>LastName </th>    
+          <th>Age </th>    
+
+        </tr>   
+      </thead>    
+      <tbody>    
+        <tr *ngFor="let record of records;let i = index;">    
+          <td> <span>{{record.id}}</span> </td>    
+          <td> <span>{{record.firstName}}</span> </td>    
+          <td> <span>{{record.lastName}}</span> </td>    
+          <td> <span>{{record.age}}</span> </td>    
+
+        </tr>    
+      </tbody>    
+    </table>    -->
+
+
+</div>

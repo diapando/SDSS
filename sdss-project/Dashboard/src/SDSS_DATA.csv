@@ -1,0 +1,999 @@
+Time,Country,NB of detections,NB of violations
+1/2/2009 6:17,United Kingdom,53,24
+1/2/2009 4:53,United States,24,90
+1/2/2009 13:08,United States,40,65
+1/3/2009 14:44,Australia,40,52
+1/4/2009 12:56,United States,47,94
+1/4/2009 13:19,United States,68,67
+1/4/2009 20:11,United States,100,72
+1/2/2009 20:09,United States,53,64
+1/4/2009 13:17,Israel,20,92
+1/4/2009 14:11,France,19,82
+1/5/2009 2:42,United States,11,30
+1/5/2009 5:39,Netherlands,69,91
+1/2/2009 9:16,United States,28,71
+1/5/2009 10:08,United States,42,70
+1/2/2009 14:18,United States,52,58
+1/4/2009 1:05,Ireland,52,62
+1/5/2009 11:37,Canada,22,47
+1/6/2009 5:02,India,21,74
+1/6/2009 7:45,United Kingdom,21,81
+1/2/2009 7:35,United States,74,65
+1/6/2009 12:56,United Kingdom,62,41
+1/1/2009 11:05,Ireland,85,16
+1/5/2009 4:10,South Africa,14,17
+1/6/2009 7:18,United States,18,18
+1/2/2009 1:11,Finland,60,85
+1/1/2009 2:24,United States,98,47
+1/7/2009 8:08,United States,15,26
+1/2/2009 2:57,United Kingdom,14,99
+1/1/2009 20:21,United States,28,11
+1/8/2009 0:42,United States,82,14
+1/8/2009 3:56,United States,86,38
+1/8/2009 3:16,United States,39,44
+1/8/2009 1:59,Switzerland,72,43
+1/3/2009 9:03,United States,95,95
+1/5/2009 13:17,Netherlands,59,22
+1/6/2009 7:46,United States,59,73
+1/5/2009 20:00,Australia,54,59
+1/8/2009 16:24,United States,42,74
+1/9/2009 6:39,United States,19,79
+1/6/2009 22:19,United States,84,43
+1/6/2009 23:00,United States,49,24
+1/7/2009 7:44,United States,84,86
+1/3/2009 13:24,Denmark,76,37
+1/7/2009 15:12,United States,14,21
+1/7/2009 20:15,United States,83,77
+1/3/2009 10:11,United States,64,76
+1/9/2009 15:58,United Kingdom,33,51
+1/3/2009 13:11,Denmark,56,87
+1/10/2009 12:57,United States,68,75
+1/10/2009 14:43,Ireland,41,32
+1/10/2009 12:05,United States,36,19
+1/6/2009 1:20,Australia,93,55
+1/10/2009 14:56,United States,14,41
+1/7/2009 10:01,United States,16,96
+1/1/2009 1:26,United States,38,88
+1/11/2009 2:04,Australia,16,82
+1/11/2009 14:17,Belgium,97,76
+1/10/2009 21:38,Canada,85,24
+1/7/2009 6:18,United States,33,11
+1/4/2009 8:39,Canada,70,52
+1/5/2009 0:31,Sweden,94,65
+1/2/2009 6:07,United Kingdom,64,54
+1/12/2009 3:25,United States,26,55
+1/4/2009 13:56,United Kingdom,98,40
+1/7/2009 0:12,Switzerland,72,46
+1/12/2009 5:18,United Kingdom,35,58
+1/8/2009 15:16,United States,11,61
+1/11/2009 11:33,Norway,48,62
+1/7/2009 20:22,Canada,63,69
+1/2/2009 22:00,United States,97,89
+1/5/2009 13:52,Switzerland,54,59
+1/8/2009 20:32,Canada,44,83
+1/8/2009 13:34,Canada,32,14
+1/11/2009 13:08,United States,77,60
+1/12/2009 19:04,Canada,93,72
+1/12/2009 13:41,Luxembourg,56,14
+1/11/2009 10:38,United Kingdom,96,46
+1/13/2009 5:57,Italy,92,70
+1/13/2009 6:13,United States,25,12
+1/8/2009 13:14,Norway,66,51
+1/2/2009 11:41,United States,66,50
+1/7/2009 19:50,United States,22,76
+1/1/2009 20:28,Canada,20,88
+1/3/2009 15:22,Canada,86,59
+1/12/2009 3:03,United States,49,44
+1/5/2009 8:58,Germany,13,16
+1/10/2009 14:03,United Kingdom,59,17
+1/13/2009 11:26,United States,60,35
+1/2/2009 12:18,Denmark,44,33
+1/14/2009 4:54,United States,33,28
+1/6/2009 17:15,Moldova,10,68
+1/3/2009 13:56,United States,50,28
+1/4/2009 7:54,Canada,44,97
+1/12/2009 7:28,Spain,98,19
+1/6/2009 15:15,Ireland,40,81
+1/13/2009 23:56,United States,54,55
+1/14/2009 19:32,United States,72,28
+1/6/2009 21:13,Canada,41,84
+1/14/2009 11:19,United Arab Emirates,85,91
+1/13/2009 19:39,United States,88,69
+1/8/2009 7:26,United Kingdom,81,67
+1/15/2009 2:40,United States,51,75
+1/12/2009 6:40,Bahrain,13,11
+1/15/2009 3:43,France,12,23
+1/5/2009 15:39,United States,91,49
+1/10/2009 5:21,United States,76,50
+1/15/2009 4:12,United States,100,51
+1/12/2009 11:48,Canada,61,37
+1/6/2009 10:48,United States,88,60
+1/14/2009 9:10,United States,78,46
+1/14/2009 22:44,United States,26,98
+1/6/2009 7:23,Canada,42,33
+1/1/2009 5:04,Netherlands,20,65
+1/15/2009 11:56,Canada,23,18
+1/15/2009 11:58,Canada,54,59
+1/12/2009 9:43,Germany,34,64
+1/15/2009 12:33,United States,82,29
+1/14/2009 11:35,United States,89,93
+1/14/2009 15:40,United States,19,68
+1/3/2009 11:08,United States,60,33
+1/12/2009 1:37,Australia,45,19
+1/16/2009 7:21,United States,15,26
+1/15/2009 12:54,Canada,10,55
+1/7/2009 7:19,Belgium,44,66
+1/3/2009 9:56,United States,45,47
+1/16/2009 17:41,United States,30,40
+1/5/2009 5:33,United States,58,93
+1/2/2009 0:50,Turkey,46,95
+1/13/2009 1:51,South Africa,87,95
+1/15/2009 10:24,United Kingdom,69,73
+1/11/2009 8:59,United States,24,43
+1/15/2009 15:56,United States,27,60
+1/1/2009 12:19,United States,92,33
+1/6/2009 14:03,United States,13,36
+1/9/2009 15:32,United Kingdom,63,77
+1/17/2009 12:59,Netherlands,14,58
+1/12/2009 12:37,United States,51,97
+1/4/2009 7:43,United States,89,54
+1/17/2009 16:22,United States,52,78
+1/1/2009 3:51,Netherlands,37,61
+1/18/2009 5:27,United States,80,60
+1/18/2009 5:15,Ireland,22,61
+1/1/2009 1:51,Denmark,81,88
+1/18/2009 6:30,Switzerland,37,52
+1/11/2009 10:51,Germany,71,64
+1/4/2009 17:02,United States,21,45
+1/17/2009 1:23,Kuwait,45,56
+1/18/2009 2:16,United States,77,55
+1/18/2009 11:34,United Kingdom,52,27
+1/18/2009 4:38,United Kingdom,70,83
+1/18/2009 13:26,Ireland,41,63
+1/18/2009 11:53,United States,79,33
+1/18/2009 12:04,United States,85,93
+1/13/2009 19:54,United States,99,60
+1/5/2009 21:06,United States,17,81
+1/14/2009 6:32,United States,39,15
+1/4/2009 23:48,Canada,41,90
+1/18/2009 16:32,United States,98,69
+1/18/2009 17:04,United States,51,23
+1/18/2009 17:20,United States,55,97
+1/18/2009 17:39,United States,45,37
+1/11/2009 11:20,United States,61,62
+1/13/2009 20:59,Canada,38,84
+1/12/2009 16:50,United States,80,79
+1/12/2009 15:12,United States,60,96
+1/6/2009 12:27,Netherlands,60,91
+1/9/2009 18:52,United States,97,21
+1/18/2009 23:17,United States,70,82
+1/7/2009 8:21,Norway,82,41
+1/3/2009 9:54,Turkey,10,85
+1/5/2009 19:37,United States,99,19
+1/4/2009 12:49,Canada,98,36
+1/8/2009 11:55,Germany,95,52
+1/14/2009 18:21,United States,25,27
+1/11/2009 19:01,United States,93,51
+1/14/2009 5:20,Switzerland,68,50
+1/15/2009 8:07,United States,46,50
+1/15/2009 8:10,United States,52,63
+1/2/2009 17:45,United States,94,40
+1/19/2009 16:10,United States,13,83
+1/19/2009 16:55,United States,16,46
+1/10/2009 17:41,United States,94,75
+1/18/2009 13:49,United States,63,52
+1/15/2009 5:47,United States,16,45
+1/19/2009 23:06,United States,86,61
+1/19/2009 11:12,United Kingdom,39,46
+1/4/2009 1:38,Australia,28,71
+1/20/2009 3:11,United Kingdom,58,60
+1/3/2009 10:52,United States,23,24
+1/20/2009 5:24,United States,68,42
+1/20/2009 6:03,United States,42,57
+1/10/2009 11:37,United States,49,92
+1/20/2009 5:50,United Kingdom,56,77
+1/19/2009 16:32,United States,90,27
+1/18/2009 10:42,United States,73,91
+1/7/2009 6:11,France,51,42
+1/3/2009 8:29,United Kingdom,20,16
+1/1/2009 2:09,Germany,17,87
+1/20/2009 12:34,United States,13,70
+1/20/2009 3:51,Australia,61,35
+1/15/2009 11:26,United States,62,69
+1/5/2009 16:55,Canada,31,68
+1/12/2009 19:47,United States,39,74
+1/4/2009 19:20,United States,52,57
+1/10/2009 8:33,United States,73,44
+1/9/2009 14:51,Australia,56,59
+1/16/2009 2:41,United States,17,93
+1/16/2009 18:36,Australia,66,53
+1/20/2009 8:10,United States,95,18
+1/6/2009 12:45,United States,75,42
+1/10/2009 8:13,United States,41,15
+1/7/2009 14:15,United States,76,65
+1/8/2009 15:27,United States,59,15
+1/21/2009 11:36,Norway,26,13
+1/21/2009 14:06,United States,29,63
+1/2/2009 2:28,Australia,18,20
+1/19/2009 19:07,United States,88,47
+1/18/2009 6:27,United States,47,24
+1/20/2009 11:58,United States,52,71
+1/20/2009 16:32,United States,24,64
+1/1/2009 7:09,United States,35,28
+1/21/2009 14:55,United States,15,44
+1/7/2009 22:29,United States,99,25
+1/11/2009 22:22,Australia,30,96
+1/21/2009 14:25,Netherlands,60,79
+1/18/2009 16:50,United States,36,38
+1/21/2009 12:08,United States,94,40
+1/22/2009 6:41,United States,25,88
+1/12/2009 9:23,United States,84,32
+1/22/2009 8:23,United States,50,37
+1/3/2009 6:41,Sweden,74,34
+1/1/2009 12:20,Malta,48,59
+1/4/2009 22:00,Germany,35,65
+1/21/2009 2:15,United Kingdom,55,88
+1/1/2009 14:22,Norway,49,69
+1/16/2009 1:07,Ireland,87,68
+1/20/2009 8:51,United States,49,71
+1/4/2009 9:02,Canada,99,91
+1/6/2009 8:34,United States,39,23
+1/8/2009 4:16,Ireland,22,58
+1/23/2009 3:33,United States,56,75
+1/6/2009 4:18,United Kingdom,21,83
+1/23/2009 3:30,Netherlands,20,54
+1/10/2009 4:04,Germany,77,36
+1/5/2009 2:57,France,22,76
+1/21/2009 14:15,United States,50,38
+1/21/2009 6:39,United States,71,36
+1/19/2009 8:14,United States,75,16
+1/23/2009 8:00,Hungary,73,60
+1/22/2009 23:35,United States,23,51
+1/14/2009 3:09,United Kingdom,27,84
+1/16/2009 1:51,Austria,86,93
+1/1/2009 6:29,Italy,85,46
+1/21/2009 7:59,United States,91,11
+1/23/2009 7:37,United States,73,63
+1/18/2009 14:39,United States,81,86
+1/24/2009 9:01,United Kingdom,95,33
+1/15/2009 1:41,France,98,65
+1/17/2009 7:23,United States,83,38
+1/23/2009 11:37,United States,48,99
+1/19/2009 15:02,United States,78,59
+1/11/2009 7:10,United Kingdom,77,95
+1/10/2009 3:28,Norway,98,59
+1/7/2009 19:03,United States,53,29
+1/17/2009 14:02,United States,35,84
+1/25/2009 0:09,United States,16,99
+1/9/2009 14:27,Ireland,56,35
+1/9/2009 14:32,Ireland,96,28
+1/11/2009 15:59,United Kingdom,73,39
+1/6/2009 14:38,Netherlands,14,34
+1/6/2009 9:52,United States,36,13
+1/1/2009 9:21,United Kingdom,32,19
+1/3/2009 7:58,Denmark,10,96
+1/11/2009 11:36,United Kingdom,24,39
+1/13/2009 14:53,United States,91,51
+1/1/2009 10:06,Germany,83,38
+1/16/2009 5:07,France,58,65
+1/6/2009 16:37,United States,79,19
+1/18/2009 17:21,United States,56,30
+1/13/2009 15:18,United States,67,85
+1/24/2009 8:21,Austria,58,29
+1/24/2009 8:25,Austria,60,86
+1/18/2009 13:06,United States,94,14
+1/22/2009 18:44,United States,28,36
+1/8/2009 8:58,United States,58,87
+1/4/2009 9:54,United States,37,76
+1/13/2009 20:22,Canada,48,92
+1/9/2009 10:22,United States,50,74
+1/5/2009 12:28,Denmark,30,74
+1/26/2009 3:43,United States,17,45
+1/26/2009 3:49,France,44,68
+1/11/2009 13:16,United States,87,46
+1/22/2009 15:32,Ireland,91,90
+1/9/2009 14:25,France,90,87
+1/21/2009 11:28,United States,94,13
+1/1/2009 14:19,Canada,99,77
+1/26/2009 4:30,United States,85,19
+1/7/2009 4:45,United Kingdom,18,86
+1/11/2009 12:12,Ireland,97,47
+1/26/2009 10:24,Canada,83,67
+1/26/2009 8:58,United Kingdom,22,22
+1/7/2009 17:51,United States,44,34
+1/18/2009 20:16,United States,31,81
+1/13/2009 9:51,Canada,74,92
+1/24/2009 18:43,United States,95,29
+1/5/2009 0:46,India,14,40
+1/9/2009 1:12,France,66,18
+1/26/2009 6:25,United States,15,10
+1/21/2009 16:57,United States,82,86
+1/5/2009 5:33,United Kingdom,82,74
+1/27/2009 5:10,United Kingdom,46,70
+1/7/2009 8:00,Germany,85,67
+1/20/2009 7:08,United States,97,91
+1/27/2009 2:26,United States,37,68
+1/5/2009 6:14,France,53,46
+1/13/2009 8:11,United States,43,35
+1/10/2009 9:18,Jersey,80,69
+1/8/2009 18:52,United States,41,98
+1/12/2009 10:06,Canada,79,24
+1/1/2009 19:25,Canada,55,86
+1/27/2009 15:28,United States,22,57
+1/2/2009 18:43,Ireland,37,43
+1/8/2009 18:41,United States,96,22
+1/4/2009 18:34,United States,77,58
+1/25/2009 8:32,Canada,23,28
+1/23/2009 22:19,Malaysia,21,33
+1/7/2009 10:03,Australia,85,58
+1/18/2009 3:46,Australia,85,23
+1/28/2009 0:40,United States,20,80
+1/2/2009 15:18,United Kingdom,20,45
+1/18/2009 13:59,Ireland,53,68
+1/16/2009 9:54,South Africa,35,17
+1/28/2009 7:07,United Kingdom,68,15
+1/28/2009 7:31,United States,41,88
+1/18/2009 12:32,Ireland,18,21
+1/13/2009 14:05,Spain,53,76
+1/28/2009 7:49,United States,55,98
+1/28/2009 3:07,Canada,39,15
+1/12/2009 15:16,Iceland,53,24
+1/6/2009 11:17,United States,63,42
+1/23/2009 9:49,Canada,47,81
+1/24/2009 4:01,United Kingdom,35,98
+1/25/2009 18:21,Sweden,26,77
+1/15/2009 10:51,Norway,26,33
+1/2/2009 5:14,United Kingdom,11,77
+1/9/2009 10:35,United States,28,68
+1/4/2009 10:16,Germany,94,42
+1/2/2009 12:16,United States,56,17
+1/28/2009 12:31,United States,68,28
+1/14/2009 12:07,United States,64,90
+1/16/2009 7:20,France,97,65
+1/6/2009 9:55,Canada,77,51
+1/7/2009 12:55,United States,68,36
+1/19/2009 12:14,Ireland,45,53
+1/13/2009 15:19,France,21,82
+1/18/2009 8:56,United States,59,43
+1/4/2009 17:54,United States,45,83
+1/5/2009 13:46,United States,61,38
+1/5/2009 10:49,United States,19,41
+1/12/2009 18:24,United States,10,89
+1/18/2009 4:01,United States,37,89
+1/16/2009 10:58,Denmark,68,53
+1/13/2009 8:20,United Kingdom,15,68
+1/12/2009 1:42,Germany,55,28
+1/28/2009 13:07,United States,35,54
+1/29/2009 5:43,United States,64,19
+1/29/2009 5:30,United States,51,67
+1/13/2009 18:08,United States,38,28
+1/9/2009 15:24,United States,68,10
+1/23/2009 15:33,United States,39,40
+1/29/2009 12:28,United States,100,35
+1/13/2009 11:31,United Kingdom,88,80
+1/29/2009 10:09,United States,44,34
+1/29/2009 15:08,United States,62,14
+1/4/2009 5:12,South Korea,89,81
+1/22/2009 22:16,United States,96,77
+1/5/2009 19:26,Switzerland,30,83
+1/11/2009 12:22,United States,84,96
+1/2/2009 9:31,United States,74,16
+1/5/2009 11:21,United Kingdom,46,29
+1/17/2009 9:49,United Arab Emirates,97,49
+1/28/2009 1:38,Sweden,69,24
+1/19/2009 10:32,United States,100,100
+1/26/2009 12:05,United States,98,57
+1/7/2009 18:53,United States,90,16
+1/26/2009 11:38,United States,68,68
+1/8/2009 13:19,United States,88,25
+1/11/2009 14:56,Norway,50,26
+1/30/2009 20:36,United States,53,69
+1/1/2009 8:09,Australia,78,90
+1/17/2009 11:09,Brazil,46,66
+1/31/2009 7:22,United States,23,57
+1/31/2009 9:12,United Kingdom,57,56
+1/31/2009 8:56,United States,68,70
+1/31/2009 9:00,United Kingdom,15,47
+1/11/2009 14:07,United States,54,89
+1/1/2009 12:25,Switzerland,44,54
+1/31/2009 11:14,United States,61,98
+1/2/2009 9:57,United States,68,13
+1/4/2009 13:20,United States,30,58
+1/22/2009 12:32,United Kingdom,12,75
+1/18/2009 6:09,United States,78,43
+1/8/2009 0:04,New Zealand,13,30
+1/24/2009 7:14,United States,45,88
+1/24/2009 11:05,United States,26,91
+1/6/2009 15:12,United States,34,29
+1/24/2009 17:06,Canada,76,58
+1/3/2009 9:58,United States,37,25
+1/9/2009 16:35,Norway,65,37
+1/12/2009 14:50,United States,92,76
+1/7/2009 13:49,United States,61,74
+1/9/2009 19:41,United States,93,43
+1/26/2009 4:53,United Kingdom,37,21
+1/23/2009 21:41,United States,69,77
+1/6/2009 16:07,United States,59,84
+1/10/2009 7:55,United Arab Emirates,61,52
+1/28/2009 20:44,United States,38,71
+1/9/2009 3:38,United Kingdom,58,59
+1/19/2009 8:52,United States,49,65
+1/15/2009 7:26,Netherlands,89,42
+1/30/2009 19:12,United States,33,62
+1/5/2009 12:41,United States,21,39
+1/28/2009 20:59,United States,63,59
+1/10/2009 21:36,United States,18,65
+1/25/2009 19:59,United States,96,19
+1/7/2009 8:03,Canada,15,94
+1/21/2009 9:07,United States,25,61
+1/23/2009 14:43,New Zealand,66,12
+1/5/2009 13:07,United Kingdom,58,21
+1/6/2009 3:39,Norway,99,21
+1/15/2009 15:26,United Kingdom,75,49
+1/23/2009 4:47,Ireland,14,41
+1/12/2009 10:05,Switzerland,19,48
+1/30/2009 5:13,Belgium,24,57
+1/14/2009 10:32,Brazil,87,32
+1/12/2009 8:13,Sweden,24,31
+1/27/2009 8:11,United States,84,41
+1/30/2009 17:33,Australia,62,65
+1/15/2009 9:52,United States,34,53
+1/13/2009 11:54,United States,88,54
+1/21/2009 11:00,Ireland,76,94
+1/16/2009 11:49,United States,11,12
+1/1/2009 9:35,United States,70,72
+1/13/2009 5:58,United States,61,27
+1/6/2009 16:08,United States,15,26
+1/5/2009 10:25,United States,85,74
+1/4/2009 21:08,Canada,15,67
+1/12/2009 20:43,United States,98,12
+1/17/2009 3:22,United States,70,97
+1/18/2009 11:17,United States,22,49
+1/27/2009 9:01,Spain,60,59
+1/8/2009 8:11,United Kingdom,11,25
+1/26/2009 23:28,Russia,71,67
+1/10/2009 21:35,Canada,66,33
+1/11/2009 6:01,United States,83,73
+1/19/2009 14:53,United States,47,47
+1/22/2009 7:14,Canada,81,72
+1/15/2009 8:12,United States,46,57
+1/7/2009 6:33,Ireland,55,67
+1/12/2009 8:05,United States,26,50
+1/28/2009 13:03,Canada,68,75
+1/25/2009 8:54,United States,50,74
+1/5/2009 10:08,Ireland,59,68
+1/5/2009 19:29,United States,98,48
+1/7/2009 19:06,United States,24,63
+1/23/2009 11:33,United States,61,18
+1/3/2009 21:11,United States,17,35
+1/11/2009 17:28,United States,28,32
+1/21/2009 20:18,Canada,91,64
+1/24/2009 10:23,United Kingdom,99,12
+1/7/2009 14:55,Ireland,36,18
+1/29/2009 10:38,United States,32,30
+1/8/2009 14:04,United States,75,20
+1/31/2009 21:50,United States,97,54
+1/1/2009 16:00,United Kingdom,62,95
+1/30/2009 13:13,United States,14,11
+1/27/2009 16:50,United States,48,94
+1/30/2009 7:42,United States,11,96
+1/17/2009 15:48,United States,81,38
+1/12/2009 11:40,Canada,31,100
+1/30/2009 20:27,United States,100,17
+1/27/2009 18:35,United States,77,89
+1/16/2009 12:47,United Kingdom,38,79
+1/2/2009 2:50,Ireland,45,58
+1/21/2009 5:39,United States,75,39
+1/28/2009 1:28,France,24,43
+1/8/2009 13:33,Monaco,57,37
+1/22/2009 12:09,Monaco,90,73
+1/20/2009 8:23,United States,41,23
+1/2/2009 7:47,United Kingdom,30,76
+1/11/2009 4:55,United States,63,39
+1/23/2009 7:47,United States,91,53
+1/21/2009 23:19,United States,98,22
+1/11/2009 4:29,United States,94,17
+1/11/2009 4:39,United States,78,49
+1/10/2009 8:13,United Kingdom,15,56
+1/22/2009 12:55,France,37,20
+1/17/2009 15:00,United States,91,20
+1/4/2009 14:06,United States,83,34
+1/30/2009 17:09,Hong Kong,22,86
+1/20/2009 5:01,United States,62,34
+1/26/2009 14:37,United States,78,76
+1/29/2009 13:27,United States,91,25
+1/12/2009 10:33,United States,61,41
+1/5/2009 8:28,Switzerland,39,39
+1/25/2009 16:11,United States,48,28
+1/25/2009 20:44,United States,38,33
+1/26/2009 11:36,Ireland,78,72
+1/27/2009 2:32,United Kingdom,50,42
+1/18/2009 13:36,United Kingdom,28,12
+1/7/2009 5:53,Germany,82,42
+1/25/2009 1:53,South Africa,63,11
+1/18/2009 11:42,United Kingdom,76,83
+1/13/2009 1:46,Denmark,38,60
+1/2/2009 15:57,United States,37,73
+1/25/2009 8:50,Switzerland,39,85
+1/14/2009 8:16,Canada,56,95
+1/27/2009 11:21,United States,25,25
+1/8/2009 10:13,Canada,56,57
+1/5/2009 7:47,Switzerland,19,60
+1/22/2009 9:00,United States,15,63
+1/25/2009 12:59,United States,72,67
+1/10/2009 19:28,United States,49,82
+1/8/2009 19:29,Thailand,52,92
+1/8/2009 12:04,United States,21,17
+1/4/2009 16:59,Australia,37,71
+1/30/2009 11:56,United Kingdom,88,85
+1/6/2009 5:10,Austria,84,18
+1/14/2009 3:39,Ireland,55,72
+1/14/2009 3:47,Ireland,62,21
+1/19/2009 3:19,Bulgaria,64,52
+1/7/2009 1:42,Latvia,70,34
+1/7/2009 13:01,Switzerland,72,88
+1/27/2009 2:35,France,46,27
+1/3/2009 14:14,United States,60,15
+1/22/2009 12:37,United States,11,97
+1/29/2009 6:49,Germany,91,38
+1/6/2009 9:45,United States,48,50
+1/12/2009 11:16,Spain,43,58
+1/13/2009 13:49,Ireland,39,38
+1/12/2009 7:23,United States,16,47
+1/30/2009 4:48,United States,14,90
+1/22/2009 16:29,United States,13,21
+1/27/2009 6:26,United States,92,41
+1/15/2009 10:16,United States,71,80
+1/19/2009 18:54,United States,19,12
+1/2/2009 22:44,Australia,61,75
+1/1/2009 18:32,United States,60,68
+1/14/2009 1:28,United Kingdom,38,81
+1/20/2009 8:08,Hungary,25,82
+1/29/2009 2:48,Denmark,93,73
+1/24/2009 18:02,United States,96,18
+1/7/2009 8:26,United States,53,57
+1/24/2009 3:36,Denmark,14,91
+1/5/2009 15:23,United Kingdom,58,98
+1/25/2009 16:17,United States,18,68
+1/15/2009 10:37,United States,21,41
+1/20/2009 15:28,United States,91,72
+1/28/2009 18:00,United States,32,45
+1/29/2009 5:06,United States,69,24
+1/6/2009 18:53,United States,71,99
+1/21/2009 6:55,United States,11,95
+1/26/2009 20:18,Australia,56,71
+1/25/2009 17:58,United States,22,92
+1/9/2009 14:37,United States,72,17
+1/25/2009 2:46,United Arab Emirates,36,91
+1/17/2009 20:46,United Arab Emirates,19,97
+1/24/2009 7:18,United Kingdom,38,26
+1/11/2009 7:09,Ireland,52,49
+1/8/2009 4:15,Poland,89,53
+1/22/2009 10:47,Ireland,77,12
+1/26/2009 20:47,United States,25,18
+1/12/2009 12:22,Sweden,23,40
+1/26/2009 1:44,Belgium,48,75
+1/18/2009 12:57,United States,37,27
+1/24/2009 21:26,United States,36,70
+1/26/2009 12:26,United States,16,79
+1/5/2009 7:37,United States,19,61
+1/14/2009 12:33,United Kingdom,72,44
+1/14/2009 0:15,France,71,62
+1/1/2009 12:42,United Kingdom,60,54
+1/6/2009 6:07,Denmark,34,81
+1/15/2009 5:11,United Kingdom,37,75
+1/17/2009 4:03,Philippines,24,38
+1/19/2009 10:13,United Kingdom,43,28
+1/18/2009 9:42,United States,34,61
+1/9/2009 11:14,United States,92,84
+1/10/2009 13:42,Canada,12,60
+1/7/2009 7:28,United States,49,21
+1/18/2009 6:46,Ireland,11,96
+1/30/2009 12:18,United States,24,52
+1/6/2009 5:42,United States,52,100
+1/2/2009 10:58,Canada,67,98
+1/8/2009 3:29,United Kingdom,26,49
+1/12/2009 13:23,Italy,22,59
+1/19/2009 9:34,United States,16,11
+1/9/2009 7:49,United States,76,14
+1/15/2009 5:27,Canada,23,20
+1/8/2009 23:40,Australia,83,27
+1/27/2009 11:02,Spain,40,84
+1/14/2009 13:23,United States,79,93
+1/7/2009 20:01,United States,19,38
+1/20/2009 12:32,United States,98,72
+1/6/2009 14:35,United States,98,12
+1/4/2009 6:51,Ireland,54,86
+1/24/2009 18:30,Australia,93,70
+1/25/2009 5:57,Argentina,41,59
+1/5/2009 10:02,United States,62,84
+1/13/2009 9:14,Norway,63,10
+1/22/2009 7:35,France,65,89
+1/2/2009 11:06,Spain,79,78
+1/11/2009 9:50,Germany,77,10
+1/21/2009 20:44,United States,90,36
+1/5/2009 9:09,United States,70,86
+1/5/2009 12:41,Canada,67,27
+1/28/2009 12:54,Canada,87,86
+1/21/2009 4:46,Denmark,71,91
+1/7/2009 13:28,United Kingdom,50,85
+1/27/2009 11:18,United States,21,60
+1/7/2009 12:39,Italy,14,34
+1/24/2009 13:54,Switzerland,97,36
+1/30/2009 6:48,United States,50,68
+1/22/2009 18:07,United States,84,59
+1/29/2009 15:03,New Zealand,27,100
+1/2/2009 14:14,United Kingdom,26,29
+1/19/2009 11:05,United States,20,39
+1/28/2009 16:17,United Kingdom,67,88
+1/8/2009 12:46,Canada,71,59
+1/29/2009 16:07,France,74,70
+1/29/2009 13:41,United States,61,72
+1/8/2009 6:29,Germany,42,57
+1/4/2009 12:53,United Kingdom,60,31
+1/14/2009 12:55,Switzerland,32,22
+1/14/2009 6:35,Australia,48,57
+1/27/2009 13:08,Switzerland,26,46
+1/31/2009 23:09,Australia,34,80
+1/21/2009 14:34,Austria,90,55
+1/16/2009 8:28,United States,49,68
+1/11/2009 9:55,Canada,87,94
+1/8/2009 2:46,United Kingdom,90,68
+1/26/2009 7:11,United States,47,53
+1/31/2009 5:39,United States,81,89
+1/9/2009 8:35,Canada,56,70
+1/24/2009 3:25,Australia,79,91
+1/26/2009 8:45,United States,26,36
+1/23/2009 10:45,United States,32,67
+1/28/2009 8:50,United States,39,83
+1/15/2009 19:10,United States,11,74
+1/9/2009 20:25,Canada,65,22
+1/15/2009 21:53,Canada,50,83
+1/12/2009 0:17,Denmark,41,15
+1/25/2009 10:32,Italy,15,92
+1/12/2009 23:35,Australia,21,67
+1/11/2009 6:09,United States,12,19
+1/3/2009 13:35,Switzerland,46,49
+1/18/2009 11:03,Spain,32,43
+1/5/2009 18:55,United States,20,22
+1/2/2009 18:54,United States,50,100
+1/13/2009 14:44,Switzerland,77,84
+1/4/2009 4:05,United Kingdom,46,91
+1/27/2009 12:47,Netherlands,32,86
+1/22/2009 6:51,United States,62,83
+1/1/2009 21:40,Australia,94,44
+1/27/2009 18:06,The Bahamas,69,20
+1/10/2009 14:59,United States,20,89
+1/26/2009 15:42,United States,64,98
+1/12/2009 14:37,France,18,35
+1/16/2009 7:58,Netherlands,98,43
+1/22/2009 14:32,Australia,21,96
+1/19/2009 6:50,United Kingdom,67,21
+1/24/2009 11:54,Belgium,55,18
+1/13/2009 13:36,United Kingdom,20,76
+1/13/2009 11:56,Canada,30,20
+1/19/2009 7:49,United States,21,60
+1/10/2009 7:37,Ireland,32,99
+1/20/2009 5:53,United Kingdom,33,58
+1/6/2009 10:34,United States,64,79
+1/23/2009 5:14,Australia,14,61
+1/14/2009 16:02,United States,38,63
+1/14/2009 18:05,United States,21,23
+1/8/2009 20:52,United States,68,16
+1/7/2009 13:57,New Zealand,41,41
+1/25/2009 10:34,United States,43,12
+1/28/2009 4:35,Norway,64,89
+1/19/2009 3:25,Japan,87,29
+1/18/2009 0:41,Germany,25,67
+1/27/2009 2:38,Ireland,17,69
+1/16/2009 6:04,Germany,24,10
+1/5/2009 5:30,France,34,36
+1/9/2009 14:55,United Kingdom,95,26
+1/29/2009 10:07,United States,88,36
+1/27/2009 3:55,Sweden,49,74
+1/25/2009 12:35,United States,80,79
+1/3/2009 16:56,United States,22,82
+1/12/2009 12:04,Sweden,28,27
+1/27/2009 3:19,United Kingdom,100,26
+1/24/2009 9:30,Switzerland,43,71
+1/25/2009 18:33,United States,48,71
+1/15/2009 11:43,United States,14,98
+1/23/2009 16:30,United States,86,14
+1/5/2009 12:57,United States,14,28
+1/29/2009 16:52,United States,59,91
+1/10/2009 0:04,United States,96,19
+1/3/2009 14:17,Australia,59,26
+1/15/2009 9:00,The Bahamas,32,24
+1/24/2009 20:58,Canada,15,70
+1/10/2009 11:53,Germany,93,94
+1/4/2009 17:34,Australia,77,41
+1/28/2009 0:22,Switzerland,61,49
+1/17/2009 1:49,Netherlands,89,62
+1/25/2009 17:48,United States,13,25
+1/22/2009 5:39,United Kingdom,63,44
+1/19/2009 15:40,Netherlands,60,70
+1/21/2009 23:52,Switzerland,11,81
+1/19/2009 13:15,Sweden,65,39
+1/16/2009 7:35,Germany,39,70
+1/22/2009 9:48,United Kingdom,69,63
+1/18/2009 12:05,United States,43,29
+1/4/2009 10:44,Canada,15,65
+1/20/2009 14:55,United States,13,27
+1/2/2009 18:41,United States,58,71
+1/2/2009 7:03,United Kingdom,14,87
+1/21/2009 7:19,United States,11,22
+1/11/2009 17:52,United States,35,69
+1/16/2009 17:56,United States,58,32
+1/9/2009 20:00,United States,75,92
+1/13/2009 2:47,Ireland,44,67
+1/19/2009 4:23,Italy,24,16
+1/13/2009 12:51,Denmark,84,13
+1/29/2009 7:40,Germany,30,54
+1/21/2009 4:34,Italy,16,90
+1/7/2009 13:28,Ireland,20,10
+1/26/2009 16:47,France,62,95
+1/29/2009 1:01,Switzerland,11,88
+1/25/2009 12:55,United States,97,61
+1/24/2009 13:35,United States,32,48
+1/28/2009 13:30,United States,35,48
+1/20/2009 19:08,United States,47,60
+1/29/2009 17:13,United States,22,38
+1/2/2009 5:33,United Kingdom,37,72
+1/31/2009 11:03,Sweden,91,76
+1/13/2009 9:16,United States,74,91
+1/19/2009 12:38,Germany,55,18
+1/18/2009 12:14,Netherlands,37,44
+1/22/2009 10:59,United States,51,13
+1/14/2009 7:30,Spain,70,76
+1/19/2009 1:52,Australia,26,34
+1/8/2009 23:00,Turkey,67,66
+1/25/2009 7:29,United Kingdom,66,19
+1/17/2009 15:19,Ireland,79,41
+1/23/2009 12:23,Netherlands,64,97
+1/24/2009 8:45,United States,22,49
+1/27/2009 3:45,Switzerland,90,98
+1/29/2009 23:48,United Kingdom,44,94
+1/3/2009 18:43,Canada,94,52
+1/24/2009 17:18,United States,33,27
+1/2/2009 15:13,Ireland,64,94
+1/8/2009 10:44,Canada,80,14
+1/29/2009 8:13,United States,33,93
+1/24/2009 10:26,Brazil,58,14
+1/24/2009 12:56,Canada,22,77
+1/7/2009 13:38,Germany,49,97
+1/23/2009 15:38,United States,88,57
+1/26/2009 14:43,Ireland,95,27
+1/17/2009 20:33,United States,76,78
+1/5/2009 9:15,Canada,41,83
+1/20/2009 8:16,United States,38,99
+1/29/2009 12:46,Ireland,80,98
+1/15/2009 18:12,United States,79,60
+1/23/2009 13:55,United States,99,93
+1/26/2009 10:26,Canada,33,88
+1/12/2009 11:48,United States,21,63
+1/29/2009 15:20,United States,73,19
+1/28/2009 7:26,Canada,43,87
+1/14/2009 0:03,Australia,33,15
+1/13/2009 1:55,Germany,30,68
+1/12/2009 23:21,Switzerland,84,76
+1/22/2009 2:16,Turkey,37,86
+1/29/2009 12:53,France,92,88
+1/28/2009 11:36,Germany,19,76
+1/19/2009 6:50,Belgium,51,28
+1/30/2009 5:20,Ireland,68,82
+1/19/2009 14:06,United States,14,89
+1/8/2009 9:43,France,43,29
+1/23/2009 9:09,Sweden,49,89
+1/20/2009 8:58,Canada,38,18
+1/2/2009 13:35,France,14,94
+1/9/2009 15:03,United States,11,43
+1/23/2009 7:04,United States,94,68
+1/17/2009 10:14,Canada,38,67
+1/19/2009 16:16,United States,29,17
+1/20/2009 13:54,Australia,78,83
+1/23/2009 21:35,Australia,90,23
+1/21/2009 23:41,France,17,17
+1/21/2009 4:11,Czech Republic,91,77
+1/10/2009 3:43,Germany,99,15
+1/15/2009 18:08,United States,69,53
+1/20/2009 14:48,Sweden,74,27
+1/21/2009 11:56,Switzerland,94,100
+1/30/2009 6:18,Switzerland,58,32
+1/12/2009 17:28,United States,77,38
+1/29/2009 8:27,Czech Republic,17,66
+1/24/2009 12:43,United States,40,52
+1/7/2009 10:49,United States,10,60
+1/11/2009 17:06,United States,59,36
+1/30/2009 6:17,Ireland,96,67
+1/7/2009 10:52,Ireland,58,35
+1/27/2009 6:20,United States,88,10
+1/21/2009 20:02,Cayman Isls,59,96
+1/4/2009 16:23,United States,41,67
+1/6/2009 12:26,United States,43,21
+1/11/2009 4:34,United Kingdom,18,47
+1/17/2009 6:39,United Kingdom,56,70
+1/4/2009 3:41,Netherlands,99,48
+1/12/2009 5:50,Netherlands,91,32
+1/3/2009 13:43,Ireland,85,82
+1/11/2009 6:51,Ukraine,50,37
+1/17/2009 6:23,Italy,50,61
+1/26/2009 18:38,United States,62,99
+1/31/2009 13:26,Canada,22,63
+1/21/2009 2:20,Switzerland,47,64
+1/18/2009 13:25,United States,49,40
+1/18/2009 18:57,United States,32,33
+1/31/2009 1:59,Italy,39,34
+1/25/2009 16:08,Canada,56,48
+1/16/2009 19:13,United States,40,16
+1/31/2009 15:25,United States,40,13
+1/9/2009 8:57,United States,92,47
+1/4/2009 22:18,Canada,72,49
+1/10/2009 15:18,United States,80,95
+1/16/2009 19:47,United States,87,67
+1/25/2009 8:16,Norway,50,35
+1/25/2009 8:48,United Kingdom,96,92
+1/17/2009 9:12,United States,11,48
+1/24/2009 1:22,Italy,28,52
+1/27/2009 15:09,United States,90,41
+1/25/2009 21:49,United States,43,64
+1/24/2009 8:51,Philippines,46,16
+1/6/2009 14:08,Belgium,22,67
+1/17/2009 14:06,United States,84,46
+1/21/2009 12:38,Turkey,93,93
+1/30/2009 23:49,Netherlands,20,31
+1/12/2009 12:00,United States,91,41
+1/29/2009 21:40,Canada,31,32
+1/24/2009 13:38,United Kingdom,86,92
+1/25/2009 13:50,Switzerland,100,91
+1/12/2009 13:41,United Kingdom,79,18
+1/5/2009 11:44,Denmark,41,99
+1/2/2009 8:31,Hungary,43,80
+1/31/2009 7:13,United Kingdom,26,89
+1/20/2009 2:17,Dominican Republic,53,28
+1/25/2009 20:15,United States,63,49
+1/25/2009 19:44,Brazil,86,78
+1/30/2009 9:00,United States,83,87
+1/7/2009 19:18,Canada,14,99
+1/4/2009 10:18,United States,16,39
+1/23/2009 14:57,United States,49,89
+1/12/2009 10:08,United States,12,24
+1/19/2009 4:22,France,28,84
+1/21/2009 21:37,China,96,19
+1/25/2009 4:34,Netherlands,40,75
+1/30/2009 1:09,Switzerland,25,25
+1/26/2009 15:16,United States,37,69
+1/15/2009 15:56,United States,46,62
+1/2/2009 20:47,United States,83,28
+1/25/2009 9:36,United States,70,83
+1/20/2009 20:09,United Arab Emirates,55,98
+1/8/2009 11:14,Switzerland,45,79
+1/6/2009 20:39,Canada,65,25
+1/6/2009 18:10,United States,13,49
+1/11/2009 6:46,Ireland,64,18
+1/19/2009 14:26,Ireland,36,70
+1/31/2009 6:14,United States,75,17
+1/6/2009 9:31,United States,42,25
+1/21/2009 7:31,United States,69,44
+1/20/2009 17:23,Canada,97,86
+1/29/2009 12:10,United States,27,36
+1/24/2009 23:21,Thailand,69,57
+1/28/2009 10:37,Greece,52,78
+1/30/2009 14:36,Switzerland,10,90
+1/21/2009 2:07,United Kingdom,90,64
+1/26/2009 6:37,Switzerland,34,67
+1/4/2009 14:27,United Kingdom,61,55
+1/9/2009 3:03,France,34,42
+1/8/2009 19:26,United States,10,12
+1/10/2009 16:02,United States,34,73
+1/6/2009 6:31,Belgium,98,49
+1/23/2009 13:13,United States,77,70
+1/18/2009 17:55,Brazil,13,27
+1/5/2009 15:15,United Kingdom,29,42
+1/2/2009 10:32,Canada,37,72
+1/25/2009 9:27,United Kingdom,45,91
+1/5/2009 6:12,Italy,42,54
+1/6/2009 2:41,Australia,17,17
+1/27/2009 14:42,United States,73,83
+1/8/2009 12:03,Canada,82,87
+1/29/2009 12:16,United States,55,13
+1/19/2009 10:47,Norway,99,78
+1/8/2009 2:49,Switzerland,72,17
+1/19/2009 17:40,United States,44,47
+1/11/2009 0:15,Netherlands,25,36
+1/16/2009 5:12,Switzerland,16,27
+1/19/2009 6:52,Costa Rica,22,91
+1/26/2009 1:14,Spain,71,33
+1/30/2009 10:31,United States,28,52
+1/23/2009 5:52,Switzerland,81,24
+1/7/2009 9:54,United Kingdom,65,91
+1/1/2009 16:44,United States,16,57
+1/23/2009 9:27,Spain,17,42
+1/22/2009 12:56,Norway,26,11
+1/16/2009 13:35,Italy,13,25
+1/13/2009 9:26,Switzerland,72,79
+1/25/2009 11:35,United States,91,29
+1/26/2009 14:02,United States,34,42
+1/7/2009 13:26,Canada,52,54
+1/15/2009 11:45,United Kingdom,64,62
+1/27/2009 12:02,Ireland,74,67
+1/28/2009 14:09,Poland,37,10
+1/23/2009 7:13,Bermuda,20,77
+1/22/2009 15:59,Canada,53,56
+1/16/2009 10:27,United States,75,81
+1/26/2009 22:45,Japan,71,35
+1/25/2009 18:33,United States,37,76
+1/16/2009 6:13,South Africa,25,26
+1/12/2009 17:19,United States,79,33
+1/2/2009 4:21,Norway,73,64
+1/5/2009 3:03,Ireland,73,19
+1/15/2009 15:22,United States,20,83
+1/26/2009 5:38,United States,95,57
+1/24/2009 10:38,United States,61,53
+1/2/2009 7:30,United States,17,27
+1/26/2009 6:38,United States,48,58
+1/17/2009 7:56,Italy,53,70
+1/17/2009 7:58,Italy,26,84
+1/18/2009 4:32,Italy,75,89
+1/26/2009 8:00,United States,12,22
+1/11/2009 8:41,United States,24,91
+1/21/2009 10:32,United States,67,89
+1/29/2009 12:27,Ireland,67,75
+1/13/2009 13:19,Canada,30,28
+1/31/2009 18:12,United States,81,22
+1/22/2009 15:35,United States,70,35
+1/5/2009 11:24,United States,78,30
+1/23/2009 11:23,United States,62,77
+1/7/2009 20:55,United States,65,51
+1/13/2009 9:40,United States,22,29
+1/25/2009 15:18,United States,73,75
+1/30/2009 20:58,Canada,99,79
+1/31/2009 4:50,Sweden,78,40
+1/20/2009 10:05,Canada,67,34
+1/9/2009 5:15,Spain,39,34
+1/13/2009 7:09,United States,45,50
+1/3/2009 11:03,United States,91,98
+1/17/2009 20:51,New Zealand,50,89
+1/5/2009 7:55,United States,78,83
+1/25/2009 14:40,United States,39,80
+1/25/2009 17:55,United States,88,23
+1/3/2009 12:54,United States,86,34
+1/22/2009 3:57,Netherlands,28,16
+1/23/2009 5:11,Ireland,45,96
+1/25/2009 11:52,Austria,87,34
+1/10/2009 4:12,Ireland,20,35
+1/10/2009 9:32,United States,93,38
+1/22/2009 12:45,United States,46,72
+1/6/2009 18:11,United States,56,70
+1/19/2009 5:56,United Kingdom,96,58
+1/25/2009 10:50,United States,17,76
+1/14/2009 8:38,United States,67,49
+1/2/2009 17:24,Australia,94,37
+1/7/2009 18:15,United States,23,75
+1/3/2009 21:19,United States,52,15
+1/4/2009 5:13,Czech Republic,57,18
+1/4/2009 9:28,United Kingdom,45,48
+1/2/2009 4:34,United Kingdom,55,25
+1/22/2009 11:10,Romania,26,98
+1/7/2009 12:06,Malta,74,67
+1/29/2009 13:25,United States,59,85
+1/27/2009 2:57,United Kingdom,79,82
+1/7/2009 13:19,Turkey,71,94
+1/23/2009 10:04,United States,43,89
+1/19/2009 4:55,United Kingdom,14,73
+1/28/2009 22:02,New Zealand,69,24
+1/4/2009 18:57,Australia,31,89
+1/12/2009 20:31,Guatemala,15,23
+1/24/2009 12:00,Spain,17,42
+1/28/2009 11:19,United States,44,29
+1/7/2009 17:48,United States,21,83
+1/23/2009 12:42,Australia,63,78
+1/7/2009 19:48,Australia,35,27
+1/26/2009 11:19,Finland,46,99
+1/5/2009 13:23,Austria,50,20
+1/26/2009 13:41,Switzerland,82,40
+1/20/2009 10:42,United Kingdom,83,77
+1/22/2009 14:25,United Kingdom,15,35
+1/28/2009 5:36,Mauritius,37,37
+1/1/2009 4:24,United States,99,69
+1/8/2009 11:55,United Kingdom,85,70
+1/12/2009 21:30,United States,58,23

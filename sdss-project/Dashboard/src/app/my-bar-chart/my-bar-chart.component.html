@@ -1,0 +1,125 @@
+<div *ngIf="recive; else elseBlock">
+  <app-my-csv-reader (messageEvent)="receiveMessage($event)"></app-my-csv-reader>
+</div>
+<ng-template #elseBlock>
+  <div class="container-fluid">
+
+
+    <div class="card" height=700px>
+      <div>
+        <div class="card-header">
+          Social Distancing Violations
+        </div>
+        <div class="card-body">
+          <div>
+            <!-- Second Chart -->
+            <div>
+              <canvas width="500" height="500" baseChart [datasets]="barChartData" [labels]="barChartLabels"
+                [options]="barChartOptions" [legend]="barChartLegend" [chartType]="barChartType"
+                [colors]="barChartColors">
+              </canvas>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="card">
+      <div class="card-body">
+        <div>
+          <div class="card-header">
+            Social Distancing Violations MA
+          </div>
+          <div class="card-body">
+            <div>
+              <!-- Second Chart -->
+              <div>
+                <canvas baseChart [datasets]="lineChartData" [options]="lineChartOptions" [chartType]="lineChartType"
+                  [plugins]="lineChartPlugins" [legend]="lineChartLegend" [labels]="lineChartLabels">
+                </canvas>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Pie chart for Locations -->
+
+    <!-- Pie chart for months -->
+    <div class="row">
+
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-header">
+            Social distancing violations per locations
+          </div>
+          <div class="card-body">
+            <div>
+
+              <div style="display: block">
+                <canvas baseChart [data]="pieChartDataPlaces" [labels]="pieChartLabelsPlaces" [chartType]="pieChartType"
+                  [colors]="colorsPie"></canvas>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-header">
+            Social distancing violations per Months
+          </div>
+          <div class="card-body">
+            <div>
+
+              <div style="display: block">
+                <canvas baseChart [data]="pieChartDataMonths" [labels]="pieChartLabelsMonths" [chartType]="pieChartType"
+                  [colors]="colorsPie"></canvas>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- Pie chart for Days -->
+      <div class="row">
+
+        <div class="col-md-6">
+          <div class="card">
+            <div class="card-header">
+              Social distancing violations per Days
+            </div>
+            <div class="card-body">
+
+              <div style="display: block">
+                <canvas baseChart [data]="pieChartDataDays" [labels]="pieChartLabelsDays" [chartType]="pieChartType"
+                  [colors]="colorsPie"></canvas>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Pie chart for Hours -->
+        <div class="col-md-6">
+          <div class="card">
+            <div class="card-header">
+              Social distancing violations per hours
+            </div>
+            <div class="card-body">
+
+              <div style="display: block">
+                <canvas baseChart [data]="pieChartDataHours" [labels]="pieChartLabelsHours" [chartType]="pieChartType"
+                  [colors]="colorsPie"></canvas>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</ng-template>

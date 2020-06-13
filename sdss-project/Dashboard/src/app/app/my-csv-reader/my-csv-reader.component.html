@@ -1,0 +1,19 @@
+
+
+<div class="card text-center" style="height: 22rem;">
+    <div class="card-header">
+      Featured
+    </div>
+    <div class="card-body">
+      <p class="card-text">Browse your data from here</p>
+      <div class="notification is primary">
+        
+        <input type="file" #csvReader name="Upload CSV" id="txtFileUpload" (change)="uploadListener($event)" accept=".csv" />    
+        <!-- <button (click)="sendMessage()" class="button">Update</button> -->
+    </div>
+    </div>
+    <div class="card-footer text-muted">
+      Keep in touch !
+    </div>
+  </div>
+  
