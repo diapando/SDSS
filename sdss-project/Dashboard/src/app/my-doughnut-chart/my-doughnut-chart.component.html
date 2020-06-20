@@ -1,180 +1,93 @@
 
-<mat-sidenav-container class="sidenav-container">
-  <mat-sidenav #sidenav mode="side" class="sidenav">
-    <div class="content options">
-      <mat-form-field class="item-margin" [color]="color">
-        <input matInput type="url" [(ngModel)]="src" placeholder="Source" />
-        <mat-hint align="end"
-          >Download button will only work for
-          <a href="https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy" target="_blank">
-            same-origin URLs
-          </a>
-        </mat-hint>
-      </mat-form-field>
-      <mat-form-field class="item-margin" [color]="color">
-        <input matInput type="url" [(ngModel)]="poster" placeholder="Poster" />
-      </mat-form-field>
-      <mat-form-field class="item-margin" [color]="color">
-        <input matInput type="text" [(ngModel)]="title" placeholder="Title" />
-      </mat-form-field>
+  <div class="container-fluid">
+    
+    <!-- Pie chart for Locations -->
 
-      <mat-form-field class="item-margin" [color]="color">
-        <input matInput type="text" [(ngModel)]="currentTime" placeholder="Current Time" />
-      </mat-form-field>
+    <!-- Pie chart for months -->
+    <div class="row">
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-header">
+            CAMERA LOCATION 1
+          </div>
+          <div class="card-body">
+            <div>
+              <video width="320" height="190" controls autoplay loop>
+                <source src="assets/1.mp4" type="video/mp4">
+              </video>
 
-      <div class="item-section">
-        <div class="item-margin">Autoplay:</div>
-        <mat-slide-toggle [(ngModel)]="autoplay" (change)="vid.load()" [color]="color"></mat-slide-toggle>
+              <br>
+              <br>
+              <div class="card-header">
+                CAMERA LOCATION 2
+              </div>
+
+              <video width="320" height="190" controls autoplay loop>
+                <source src="assets/2.mp4" type="video/mp4">
+              </video>
+
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <div style="display: block">
+
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
 
-      <div class="item-section">
-        <div class="item-margin">Preload:</div>
-        <mat-slide-toggle [(ngModel)]="preload" (change)="vid.load()" [color]="color"></mat-slide-toggle>
-      </div>
 
-      <div class="item-section">
-        <div class="item-margin">Loop:</div>
-        <mat-slide-toggle [(ngModel)]="loop" [color]="color"></mat-slide-toggle>
-      </div>
+      <div class="col-md-6">
+        <div class="card">
+          <div class="card-header">
+            CAMERA LOCATION 3
+          </div>
+          <div class="card-body">
+            <div>
+              
+              <video width="320" height="190" controls autoplay loop>
+                <source src="assets/3.mp4" type="video/mp4">
+              </video>
 
-      <div class="item-section">
-        <div class="item-margin">Muted:</div>
-        <mat-slide-toggle [(ngModel)]="muted" [color]="color"></mat-slide-toggle>
-      </div>
+              <br>
+              <br>
 
-      <div class="item-section">
-        <div class="item-margin">Quality:</div>
-        <mat-slide-toggle [(ngModel)]="quality" [color]="color"></mat-slide-toggle>
-      </div>
+              <div class="card-header">
+                CAMERA LOCATION 4
+              </div>
 
-      <div class="item-section">
-        <div class="item-margin">Download:</div>
-        <mat-slide-toggle [(ngModel)]="download" [color]="color"></mat-slide-toggle>
-      </div>
+              <video width="320" height="190" controls autoplay loop>
+                <source src="assets/4.mp4" type="video/mp4">
+              </video>
 
-      <div class="item-section">
-        <div class="item-margin">Fullscreen:</div>
-        <mat-slide-toggle [(ngModel)]="fullscreen" [color]="color"></mat-slide-toggle>
-      </div>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <div style="display: block">
 
-      <div class="item-section">
-        <div class="item-margin">Plays Inline:</div>
-        <mat-slide-toggle [(ngModel)]="playsinline" [color]="color"></mat-slide-toggle>
-      </div>
-
-      <div class="item-section">
-        <div class="item-margin">Frame-by-Frame:</div>
-        <mat-slide-toggle [(ngModel)]="showFrameByFrame" [color]="color"></mat-slide-toggle>
-      </div>
-
-      <div class="item-section">
-        <div class="item-margin">Keyboard:</div>
-        <mat-slide-toggle [(ngModel)]="keyboard" [color]="color"></mat-slide-toggle>
-      </div>
-
-      <div class="item-section">
-        <div class="item-margin">Overlay:</div>
-        <mat-radio-group [(ngModel)]="overlay">
-          <mat-radio-button class="item-margin" [value]="null" [color]="color">
-            Default
-          </mat-radio-button>
-          <mat-radio-button class="item-margin" [value]="false" [color]="color">
-            Off
-          </mat-radio-button>
-          <mat-radio-button class="item-margin" [value]="true" [color]="color">
-            On
-          </mat-radio-button>
-        </mat-radio-group>
-      </div>
-
-      <div class="item-section">
-        <div class="item-margin">Color:</div>
-        <mat-radio-group [(ngModel)]="color">
-          <mat-radio-button class="item-margin" value="primary" [color]="color">
-            Primary
-          </mat-radio-button>
-          <mat-radio-button class="item-margin" value="accent" [color]="color">
-            Accent
-          </mat-radio-button>
-          <mat-radio-button class="item-margin" value="warn" [color]="color">
-            Warn
-          </mat-radio-button>
-        </mat-radio-group>
-      </div>
-
-      <div class="item-section">
-        <div class="item-margin">Spinner:</div>
-        <mat-radio-group [(ngModel)]="spinner">
-          <mat-radio-button class="item-margin" value="spin" [color]="color">
-            Spin
-          </mat-radio-button>
-          <mat-radio-button class="item-margin" value="dot" [color]="color">
-            Dot
-          </mat-radio-button>
-          <mat-radio-button class="item-margin" value="split-ring" [color]="color">
-            Split Ring
-          </mat-radio-button>
-          <mat-radio-button class="item-margin" value="hourglass" [color]="color">
-            Hourglass
-          </mat-radio-button>
-        </mat-radio-group>
-      </div>
-
-      <div class="item-section">
-        <div class="item-margin">CSS Examples:</div>
-        <mat-radio-group [(ngModel)]="ngclass">
-          <mat-radio-button class="item-margin" value="mat-video-responsive" [color]="color">
-            Responsive
-          </mat-radio-button>
-          <mat-radio-button class="item-margin" value="mat-video-fixed" [color]="color">
-            Fixed
-          </mat-radio-button>
-        </mat-radio-group>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
-
-    <div class="mat-toolbar mat-primary mat-toolbar-single-row footer">
-      <div class="badges">
-        <a href="https://badge.fury.io/js/mat-video" target="_blank">
-          <img alt="npm version" src="https://badge.fury.io/js/mat-video.svg" />
-        </a>
-        <a href="https://travis-ci.org/nkoehler/mat-video" target="_blank">
-          <img alt="Build Status" src="https://travis-ci.org/nkoehler/mat-video.svg?branch=master" />
-        </a>
-        <a href="https://codeclimate.com/github/nkoehler/mat-video/" target="_blank">
-          <img alt="Maintainability" src="https://api.codeclimate.com/v1/badges/46fb1a751d60d0f8b316/maintainability" />
-        </a>
-      </div>
-    </div>
-  </mat-sidenav>
-
-  <mat-sidenav-content>
-    <div class="content video">
-      <mat-video
-        #vid
-        [ngClass]="ngclass"
-        [src]="src"
-        [title]="title"
-        [autoplay]="autoplay"
-        [preload]="preload"
-        [loop]="loop"
-        [fullscreen]="fullscreen"
-        [download]="download"
-        [quality]="quality"
-        [keyboard]="keyboard"
-        [color]="color"
-        [spinner]="spinner"
-        [poster]="poster"
-        [overlay]="overlay"
-        [(muted)]="muted"
-        [playsinline]="playsinline"
-        [showFrameByFrame]="showFrameByFrame"
-        [(time)]="currentTime"
-      >
-      </mat-video>
-    </div>
-  </mat-sidenav-content>
-</mat-sidenav-container>
-
-
-
+  </div>
